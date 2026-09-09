@@ -2,7 +2,7 @@
 
 # ⚡ CPU Process Scheduling Simulation
 ### Algorithm Design & Comparative Analysis: FCFS vs. Round Robin
-**งานปฏิบัติการกลุ่ม 4: การออกแบบและวิเคราะห์ขั้นตอนวิธีระบบจัดคิว CPU ด้วย Java**
+**งานกลุ่มที่ 4: การออกแบบและวิเคราะห์ขั้นตอนวิธีระบบจัดคิว CPU ด้วย Java**
 
 [![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Tests](https://img.shields.io/badge/Test_Cases-6%2F6_PASSING-success?style=for-the-badge&logo=checkmarx&logoColor=white)](#-test-cases--verification)
