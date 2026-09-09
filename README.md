@@ -148,7 +148,6 @@ Group4_Queue/
 ├── Main.java                  # โปรแกรมหลักรันโจทย์ P1-P4 แสดงผลลัพธ์และตรวจสอบ Metrics
 ├── SchedulerTest.java         # ชุดทดสอบ Unit Tests อัตโนมัติ 6 Test Cases (TC-01 ถึง TC-06)
 ├── AlgorithmBenchmark.java    # ชุดรันจับเวลาประสิทธิภาพ n = 100 ถึง 50,000
-└── CODEX_TASK_SPECIFICATION.txt # เอกสารข้อกำหนดเชิงเทคนิค
 ```
 
 ---
